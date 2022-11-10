@@ -13,6 +13,7 @@ public class GitDemoApplication {
         SpringApplication.run(GitDemoApplication.class, args);
         System.out.println("second commit");
         System.out.println("third commit");
+        System.out.println("dev commit");
     }
 
 }
